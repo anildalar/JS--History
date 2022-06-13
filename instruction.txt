@@ -1,0 +1,45 @@
+JS - Foundation Day 2 - 
+JS History
+
+Who Invented?
+Brendan Eich 
+
+When ?
+in 1995.
+
+
+What is the offical Name of JS?
+
+LiveScript --->  Javascript
+
+1997
+
+ECMA
+
+European Computer Manufacturers Association
+
+ Google   Chrome  Webbrowser
+ Netscape Navigator
+
+
+How to write JS Code.
+
+Where we can run JS Code
+	1. Inside Web Browser i.e HTML page
+		 	1.1 with <script> tag
+						1.1.1  Before closing of </head> tag
+						1.1.2  Before closing of </body> tag
+			1.2 with external linking <script src="address" />
+
+	2. Outside Web Browser
+			NodeJs as js file
+			open the terminal
+	
+
+			node <filename>
+			node outside.js
+
+How to log/view JS Code.?
+		1. alert
+		2. console.log();
+

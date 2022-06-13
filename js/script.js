@@ -1,0 +1,2 @@
+
+alert('Inside script.js');
